@@ -4,7 +4,8 @@ This repository contains the Python projects I developed during my internship at
 These tasks helped me strengthen my skills in problem-solving, application structure, and user interaction through the use of Tkinter, random module, and other core Python libraries. Each project is structured to be simple, interactive, and beginner-friendly.
 
 🔧 Tasks Completed:
-Task 1 – Calculator
+
+Task 1 – Simple Calculator
 A GUI-based calculator built using Tkinter in Python. It performs basic arithmetic operations and includes a clear, responsive interface for user input.
 
 Task 2 – Password Generator
