@@ -1,4 +1,4 @@
-# CODESOFT
+# CODSOFT
 This repository contains the Python projects I developed during my internship at CodSoft in July 2025. The internship included three tasks designed to build hands-on experience in Python programming, GUI development, and logic-based applications.
 
 These tasks helped me strengthen my skills in problem-solving, application structure, and user interaction through the use of Tkinter, random module, and other core Python libraries. Each project is structured to be simple, interactive, and beginner-friendly.
